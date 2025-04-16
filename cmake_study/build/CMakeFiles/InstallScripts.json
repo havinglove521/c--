@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/c++/cmake_study/build/cmake_install.cmake",
+		"F:/c++/cmake_study/build/lesson1/cmake_install.cmake",
+		"F:/c++/cmake_study/build/lesson2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
